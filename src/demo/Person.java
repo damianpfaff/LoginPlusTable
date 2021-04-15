@@ -13,7 +13,7 @@ public class Person {
    private final SimpleStringProperty email = new SimpleStringProperty("");
    private final SimpleStringProperty address = new SimpleStringProperty("");
 
-public Person() {
+public Person() { //this is the person in the table
         this("", "", "", "");
     }
  
