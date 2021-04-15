@@ -76,7 +76,7 @@ public class Main extends Application {
         }
     }
     
-    public void goToTablePage(){
+    public void goToTablePage(){ //this makes it go to the table
         goToUserList();   
     }
     
